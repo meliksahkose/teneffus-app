@@ -14,4 +14,4 @@
 - **Stack:** React Native (Expo dev client) · Supabase (Postgres, Edge Functions) · Python (uv) content pipeline · GitHub Actions CI · EAS cloud builds · static marketing site.
 
 ---
-<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksahkose90@gmail.com</sub>
+<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksah.kose1@hotmail.com</sub>
